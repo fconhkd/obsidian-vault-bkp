@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "feae9f3d3edd598d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ac07224900b4e82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7d919d819eacf1f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e722f72de057fefb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c036ce98043aa887",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "981e838b40d8254b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "1de685dd1b5ffb66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "f559490e05305e05",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "f1e2aff135365c97",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 474.5
+  },
+  "right": {
+    "id": "116b55517b7f333f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f54a00d2a93965ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78076ba948aacab8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cursos/Cisco/Defesa de rede/00 Introdução.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 00 Introdução"
+            }
+          },
+          {
+            "id": "2843088998820eba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cursos/Cisco/Defesa de rede/00 Introdução.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 00 Introdução"
+            }
+          },
+          {
+            "id": "719a367121c8c1f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5da5d34e855feda0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "bd193fb179a68d7b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "981e838b40d8254b",
+  "lastOpenFiles": [
+    "source/README.md",
+    "source/LICENSE",
+    "source",
+    "Sem título.canvas",
+    "2024-09-05.md",
+    "Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/01 Usar o portal do Microsoft Defender.md",
+    "Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/00 Introdução.md",
+    "Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/02 Gerenciar incidentes.md",
+    "Cursos/Segurança/Certificação profissional em Cybersecurity Awareness (Português)/Introdução.md",
+    "Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender",
+    "Cursos/Microsoft/Microsoft Defender",
+    "Cursos/Segurança/Ofensiva/Introdução ao Pentest/Não existe sistema seguro.md",
+    "Cursos/Cisco/Defesa de rede/00 Introdução.md",
+    "Cursos/Segurança/Certificação profissional em Cybersecurity Awareness (Português)",
+    "Cursos/Cisco/Defesa de rede/01 Compreendendo a defesa.md",
+    "Cursos/Microsoft/Nuvem/O que é computação na nuvem.md",
+    "Cursos/Cisco/Defesa de rede",
+    "Cursos/Cisco",
+    "Cursos",
+    "2024-08-26.md",
+    "Untitled.canvas",
+    "2023-08-19.md"
+  ]
+}
