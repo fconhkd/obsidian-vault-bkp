@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/11 Analisar relatórios.md",
+                "file": "Estudos/Linux/Agendar tarefas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 Analisar relatórios"
+              "title": "Agendar tarefas"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -122,33 +122,18 @@
             }
           },
           {
-            "id": "997f637d15185b32",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "5256f2d98b4533b2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/06 Usar a Central de Ações.md",
+                "file": "Estudos/Linux/Agendar tarefas.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 06 Usar a Central de Ações"
+              "title": "Outline of Agendar tarefas"
             }
           },
           {
@@ -160,9 +145,24 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "0b90fce25baab9d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,22 +170,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "workspaces:Gerenciar leiautes da área de trabalho": false,
-      "audio-recorder:Começar/parar a gravação de áudio": false
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3a7c344e5145958e",
+  "active": "b7e2818d4fae979a",
   "lastOpenFiles": [
-    "Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/10 Estudar análise de ameaças.md",
+    "Estudos/GLPI/99 Estratégias de backup.md",
+    "Estudos/Linux/Agendar tarefas.md",
+    "Estudos/Linux",
     "Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/11 Analisar relatórios.md",
+    "Estudos/GLPI/backup",
+    "Estudos/GLPI",
+    "Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/10 Estudar análise de ameaças.md",
     "Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/09 Entender a Classificação de Segurança da Microsoft.md",
     "Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/08 Investigar logs de entrada do Microsoft Entra.md",
     "Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/07 Explorar busca avançada.md",
@@ -207,10 +212,7 @@
     "Estudos/Cursos/Microsoft/Nuvem/O que é computação na nuvem.md",
     "Estudos/Cursos/Microsoft/Nuvem",
     "Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender",
-    "Estudos/Cursos/Microsoft/Microsoft Defender",
-    "Estudos/Cursos/Microsoft",
     "Estudos/Cursos/Cisco/Defesa de rede/01 Compreendendo a defesa.md",
-    "Estudos/Cursos/Cisco/Defesa de rede/00 Introdução.md",
-    "Estudos/Cursos/Cisco/Defesa de rede"
+    "Estudos/Cursos/Cisco/Defesa de rede/00 Introdução.md"
   ]
 }
