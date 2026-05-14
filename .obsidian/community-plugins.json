@@ -1,5 +1,25 @@
 [
-  "obsidian-git",
   "obsidian-emoji-toolbar",
-  "obsidian-advanced-slides"
+  "obsidian-advanced-slides",
+  "obsidian-kanban",
+  "dataview",
+  "obsidian-git",
+  "templater-obsidian",
+  "obsidian-tasks-plugin",
+  "omnisearch",
+  "pdf-plus",
+  "maps",
+  "obsidian-excalidraw-plugin",
+  "editing-toolbar",
+  "obsidian-full-calendar",
+  "obsidian-importer",
+  "tag-wrangler",
+  "drawio-obsidian",
+  "obsidian-local-rest-api",
+  "obsidian-charts",
+  "obsidian-excel-to-markdown-table",
+  "folder-notes",
+  "obsidian-languagetool-plugin",
+  "obsidian-mind-map",
+  "obsidian-tracker"
 ]
