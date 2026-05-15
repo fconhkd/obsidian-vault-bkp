@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"fd66320fb2eec4d7","x":-100,"y":10,"width":250,"height":60,"type":"text","text":"Mapa Mental: DFIR - Aula 1"},
+		{"id":"68042a7738fe0d81","x":-400,"y":160,"width":250,"height":60,"type":"text","text":""},
+		{"id":"bcb61c624fe7696e","x":-920,"y":-140,"width":250,"height":60,"type":"text","text":"Preparação para atuar em resposta a incidentes"},
+		{"id":"86bea99090cc82c0","x":-920,"y":-220,"width":250,"height":60,"type":"text","text":"Compreensão dos fundamentos de DFIR\n\nPreparação para atuar em resposta a incidentes\n\nAplicação em ambientes corporativos e domésticos"},
+		{"id":"6bcfae2babf29bf6","x":-920,"y":-50,"width":250,"height":60,"type":"text","text":"Aplicação em ambientes corporativos e domésticos"},
+		{"id":"7fd471e38ebfc12c","x":-560,"y":-140,"width":250,"height":60,"type":"text","text":"Objetivo do Curso"}
+	],
+	"edges":[
+		{"id":"5b9cdb9fb61a0ecb","fromNode":"7fd471e38ebfc12c","fromSide":"left","toNode":"bcb61c624fe7696e","toSide":"right"},
+		{"id":"53076899ee622f8c","fromNode":"bcb61c624fe7696e","fromSide":"top","toNode":"86bea99090cc82c0","toSide":"bottom"},
+		{"id":"e4f1bd95b1cb8c5b","fromNode":"bcb61c624fe7696e","fromSide":"bottom","toNode":"6bcfae2babf29bf6","toSide":"top"},
+		{"id":"284974cfaa3f102c","fromNode":"7fd471e38ebfc12c","fromSide":"left","toNode":"6bcfae2babf29bf6","toSide":"right"},
+		{"id":"3a99528c694d2616","fromNode":"7fd471e38ebfc12c","fromSide":"left","toNode":"86bea99090cc82c0","toSide":"right"},
+		{"id":"0fb09db0ecfabcfe","fromNode":"fd66320fb2eec4d7","fromSide":"left","toNode":"7fd471e38ebfc12c","toSide":"right"}
+	]
+}
