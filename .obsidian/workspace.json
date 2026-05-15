@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6233b513ef77be87",
+        "id": "c2efd564af865331",
         "type": "tabs",
         "children": [
           {
-            "id": "67a41aa42b6ed9b0",
+            "id": "753d1976979b0609",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -133,16 +133,6 @@
             }
           },
           {
-            "id": "b7e2818d4fae979a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "0b90fce25baab9d2",
             "type": "leaf",
             "state": {
@@ -156,16 +146,29 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "727d832736646fb0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 479.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -174,50 +177,49 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "bases:Create new base": false,
-      "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b7e2818d4fae979a",
+  "active": "727d832736646fb0",
   "lastOpenFiles": [
-    "Estudos/Linux/Agendar tarefas.md",
-    "05_Template/Template de Projeto.md",
-    "05_Template/Estudo curso ou treinamento.md",
-    "05_Template",
-    "01_Pessoal/04_Estudos/Linux/Agendar tarefas.md",
-    "01_Pessoal/04_Estudos/Linux",
-    "01_Pessoal/04_Estudos/GLPI/99 Estratégias de backup.md",
-    "01_Pessoal/04_Estudos/GLPI",
-    "01_Pessoal/04_Estudos/Cursos/Segurança/Ofensiva/Introdução ao Pentest/Não existe sistema seguro.md",
-    "01_Pessoal/04_Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/11 Analisar relatórios.md",
-    "01_Pessoal/04_Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/10 Estudar análise de ameaças.md",
-    "01_Pessoal/04_Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/09 Entender a Classificação de Segurança da Microsoft.md",
-    "01_Pessoal/04_Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/08 Investigar logs de entrada do Microsoft Entra.md",
-    "01_Pessoal/04_Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/07 Explorar busca avançada.md",
-    "01_Pessoal/04_Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/06 Usar a Central de Ações.md",
-    "01_Pessoal/04_Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/05 Gerenciar investigações automatizadas.md",
-    "01_Pessoal/04_Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/04 Exibir e investigar alertas.md",
-    "01_Pessoal/04_Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/03 Investigar incidentes.md",
-    "01_Pessoal/04_Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/02 Gerenciar incidentes.md",
-    "01_Pessoal/04_Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/01 Usar o portal do Microsoft Defender.md",
-    "01_Pessoal/04_Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/00 Introdução.md",
-    "01_Pessoal/04_Estudos/Cursos/Segurança/Ofensiva/Introdução ao Pentest",
-    "01_Pessoal/04_Estudos/Cursos/Segurança/Certificação profissional em Cybersecurity Awareness (Português)/Introdução.md",
-    "01_Pessoal/04_Estudos/Cursos/Microsoft/Nuvem/O que é computação na nuvem.md",
-    "01_Pessoal/04_Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender",
-    "01_Pessoal/04_Estudos/Cursos/Cisco/Defesa de rede/01 Compreendendo a defesa.md",
-    "01_Pessoal/04_Estudos/Cursos/Cisco/Defesa de rede/00 Introdução.md",
-    "01_Pessoal/04_Estudos/Cursos/Segurança/Ofensiva",
-    "01_Pessoal/04_Estudos/Cursos/Segurança/Certificação profissional em Cybersecurity Awareness (Português)",
-    "01_Pessoal/04_Estudos/Cursos/Microsoft/Nuvem",
-    "01_Pessoal/04_Estudos/Cursos/Microsoft/Microsoft Defender",
-    "01_Pessoal/04_Estudos/Cursos/Cisco/Defesa de rede",
-    "Estudos/GLPI/99 Estratégias de backup.md",
-    "Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/11 Analisar relatórios.md",
-    "Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/10 Estudar análise de ameaças.md",
-    "Estudos/Cursos/Microsoft/Microsoft Defender/Mitigar incidentes usando o Microsoft Defender/09 Entender a Classificação de Segurança da Microsoft.md"
+    "01_Pessoal/04_Estudos/Query (referencia)/Segurança/Defensiva/NGINX/Hardening de Headers de Segurança.md",
+    "01_Pessoal/04_Estudos/Query (referencia)/Segurança/Defensiva/NGINX",
+    "01_Pessoal/04_Estudos/Query (referencia)/macOS/Hardware/Sem título.md",
+    "01_Pessoal/04_Estudos/Query (referencia)/macOS/Hardware/01-Criar um pendrive para instalar ou recuperar o S.O..md",
+    "01_Pessoal/04_Estudos/Query (referencia)/IA/developer/Untitled.md",
+    "01_Pessoal/04_Estudos/Query (referencia)/Segurança/Defensiva",
+    "01_Pessoal/04_Estudos/Query (referencia)/macOS/Hardware",
+    "01_Pessoal/04_Estudos/Query (referencia)/IA/developer",
+    "01_Pessoal/04_Estudos/Query (referencia)/GLPI/Instalando o GLPI.md",
+    "01_Pessoal/04_Estudos/Query (referencia)/GLPI/Atualizando o GLPI.md",
+    "01_Pessoal/04_Estudos/Query (referencia)/dotnet/03-Swagger.md",
+    "01_Pessoal/04_Estudos/Query (referencia)/dotnet/02-User-secrets.md",
+    "01_Pessoal/04_Estudos/Query (referencia)/dotnet/01-EntityFramework.md",
+    "01_Pessoal/04_Estudos/Query (referencia)/Segurança",
+    "01_Pessoal/04_Estudos/Query (referencia)/macOS",
+    "01_Pessoal/04_Estudos/Query (referencia)/IA",
+    "01_Pessoal/04_Estudos/Query (referencia)/GLPI",
+    "01_Pessoal/04_Estudos/Query (referencia)/dotnet",
+    "01_Pessoal/04_Estudos/Query (referencia)",
+    "01_Pessoal/04_Estudos/Obsidian/04-Plugins.md",
+    "01_Pessoal/04_Estudos/Obsidian/03-Diagramas Mermaid.md",
+    "01_Pessoal/04_Estudos/Obsidian/02-Como Aplicar um Template.md",
+    "01_Pessoal/04_Estudos/Obsidian/01-Introdução.md",
+    "01_Pessoal/04_Estudos/Inbox/Aqui fica tudo que ainda não processei.md",
+    "01_Pessoal/04_Estudos/Cursos/Segurança/Ofensiva/Novo Pentest Profissional/02 Introdução ao Penetration Testing/attachments/Pasted image 20260502180813.png",
+    "01_Pessoal/04_Estudos/Cursos/Segurança/Ofensiva/Novo Pentest Profissional/02 Introdução ao Penetration Testing/01-Introduçaõ ao Pentest DESEC.md",
+    "01_Pessoal/04_Estudos/Cursos/Segurança/Ofensiva/Novo Pentest Profissional/03 Carreira em Pentest/01-Carreira em Pentest.md",
+    "01_Pessoal/04_Estudos/Cursos/Segurança/Ofensiva/Novo Pentest Profissional/01 Introdução a Segurança da Informação/01-Introdução a SI DESEC.md",
+    "01_Pessoal/04_Estudos/Cursos/Segurança/Defensiva/DFIR - Mente Binaria/01 Introdução e Fundamentos/03 - Fundamentos de Perícia Forense Digital.md",
+    "01_Pessoal/04_Estudos/Cursos/Segurança/Defensiva/DFIR - Mente Binaria/01 Introdução e Fundamentos/02 - Componentes do CSIRT.md",
+    "01_Pessoal/04_Estudos/Cursos/Segurança/Defensiva/DFIR - Mente Binaria/01 Introdução e Fundamentos/01 - Processo de resposta a incidentes.md",
+    "01_Pessoal/04_Estudos/Cursos/Segurança/Defensiva/DFIR - Mente Binaria/01 Introdução e Fundamentos/01 - Processo de resposta a incidentes.canvas",
+    "01_Pessoal/04_Estudos/Cursos/Segurança/Defensiva/DFIR - Mente Binaria/00 O que é DFIR/00 - Introdução a Resposta a Incidentes.md",
+    "01_Pessoal/04_Estudos/Cursos/Introdução.md",
+    "01_Pessoal/03_Projetos/Ativos/Munck/01-Projeto Munck.md",
+    "01_Pessoal/03_Projetos/Ativos/Auditoria/04-Diagramas.md",
+    "01_Pessoal/03_Projetos/Ativos/Auditoria/03-Funcionalidades Principais.md",
+    "01_Pessoal/03_Projetos/Ativos/Auditoria/02-Kanban.md"
   ]
 }
