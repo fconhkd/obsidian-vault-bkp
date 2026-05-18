@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "88dd53fb214f8c90",
+        "id": "36e3042ba11cfa6d",
         "type": "tabs",
         "children": [
           {
-            "id": "f89d2a6a76d2100f",
+            "id": "a6163017b04bdafd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,7 +185,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "43fa18928c2f849e",
+  "active": "a6163017b04bdafd",
   "lastOpenFiles": [
     "05_Template/Template de Projeto.md",
     "02_Trabalho/03_Projetos/Trackcash/2026-05-18 Migração do dominio trackcash.net.br.md",
