@@ -1,6 +1,6 @@
 ---
-title: "{{title}}"
-date: "{{date}}"
+title: "2026-05-18 Migração do dominio trackcash.net.br"
+date: 2026-01-17 18:29
 url-code:
 tags:
   - PROJECT
@@ -29,9 +29,9 @@ Criado apenas para testar, crie aqui o seu conteúdo e descreva par ajudar a pen
 -
 ## Histórico
 
-- {{date}} — Registro rápido do que foi feito ou decidido
-- {{date}} — Registro rápido do que foi feito ou decidido
-- {{date}} — Registro rápido do que foi feito ou decidido
+- 2026-05-18 — Registro rápido do que foi feito ou decidido
+- 2026-05-18 — Registro rápido do que foi feito ou decidido
+- 2026-05-18 — Registro rápido do que foi feito ou decidido
 
 ---
 ## Referencias

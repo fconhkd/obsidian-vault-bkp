@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c2efd564af865331",
+        "id": "88dd53fb214f8c90",
         "type": "tabs",
         "children": [
           {
-            "id": "753d1976979b0609",
+            "id": "f89d2a6a76d2100f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02_Trabalho/03_Projetos/Trackcash/2026-05-18 Migração do dominio trackcash.net.br.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-05-18 Migração do dominio trackcash.net.br"
             }
           }
         ]
@@ -181,8 +185,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "727d832736646fb0",
+  "active": "43fa18928c2f849e",
   "lastOpenFiles": [
+    "05_Template/Template de Projeto.md",
+    "02_Trabalho/03_Projetos/Trackcash/2026-05-18 Migração do dominio trackcash.net.br.md",
+    "02_Trabalho/03_Projetos/Trackcash",
     "01_Pessoal/04_Estudos/Query (referencia)/Segurança/Defensiva/NGINX/Hardening de Headers de Segurança.md",
     "01_Pessoal/04_Estudos/Query (referencia)/Segurança/Defensiva/NGINX",
     "01_Pessoal/04_Estudos/Query (referencia)/macOS/Hardware/Sem título.md",
@@ -201,7 +208,6 @@
     "01_Pessoal/04_Estudos/Query (referencia)/IA",
     "01_Pessoal/04_Estudos/Query (referencia)/GLPI",
     "01_Pessoal/04_Estudos/Query (referencia)/dotnet",
-    "01_Pessoal/04_Estudos/Query (referencia)",
     "01_Pessoal/04_Estudos/Obsidian/04-Plugins.md",
     "01_Pessoal/04_Estudos/Obsidian/03-Diagramas Mermaid.md",
     "01_Pessoal/04_Estudos/Obsidian/02-Como Aplicar um Template.md",
@@ -218,8 +224,6 @@
     "01_Pessoal/04_Estudos/Cursos/Segurança/Defensiva/DFIR - Mente Binaria/00 O que é DFIR/00 - Introdução a Resposta a Incidentes.md",
     "01_Pessoal/04_Estudos/Cursos/Introdução.md",
     "01_Pessoal/03_Projetos/Ativos/Munck/01-Projeto Munck.md",
-    "01_Pessoal/03_Projetos/Ativos/Auditoria/04-Diagramas.md",
-    "01_Pessoal/03_Projetos/Ativos/Auditoria/03-Funcionalidades Principais.md",
-    "01_Pessoal/03_Projetos/Ativos/Auditoria/02-Kanban.md"
+    "01_Pessoal/03_Projetos/Ativos/Auditoria/04-Diagramas.md"
   ]
 }
